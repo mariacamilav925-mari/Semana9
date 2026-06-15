@@ -1,0 +1,8 @@
+pregunta7:
+respuesta 
+
+
+touch ejecucion-servidor.txt
+echo "Al ejecutar node server.js se inicia el servidor Node.js, se cargan las rutas configuradas y el programa queda a la espera de recibir solicitudes en el puerto 3000." > ejecucion-servidor.txt
+echo "En la terminal aparece el mensaje: Servidor ejecutándose en puerto 3000." >> ejecucion-servidor.txt
+echo "Al visitar la ruta /estado, el navegador muestra la respuesta en formato JSON: {\"estado\":\"Servidor funcionando\",\"servicio\":\"API comunitaria\"}." >> ejecucion-servidor.txt
