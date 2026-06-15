@@ -1,0 +1,13 @@
+pregunta8:
+respuesta
+
+touch componentes-servidor.txt
+echo "Sistema operativo: Administra los recursos del equipo y permite ejecutar aplicaciones. Actúa como puente entre el hardware y el software del servidor." > componentes-servidor.txt
+echo "" >> componentes-servidor.txt
+echo "Node.js: Entorno que ejecuta código JavaScript en el servidor. Permite crear servicios web y procesar solicitudes de forma eficiente." >> componentes-servidor.txt
+echo "" >> componentes-servidor.txt
+echo "Aplicación server.js: Contiene la lógica del servidor, define rutas y respuestas. Es el programa que recibe y atiende las peticiones de los usuarios." >> componentes-servidor.txt
+echo "" >> componentes-servidor.txt
+echo "Puerto: Punto de conexión en la red por donde viajan los datos. Permite que el servidor reciba y envíe información a través de un canal específico." >> componentes-servidor.txt
+echo "" >> componentes-servidor.txt
+echo "Logs: Registran todas las actividades y eventos del servidor. Sirven para monitorear su funcionamiento y detectar errores o fallos rápidamente." >> componentes-servidor.txt
